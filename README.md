@@ -1,8 +1,6 @@
 # Awesome Market Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of market intelligence tools, resources, templates, and guides for market sizing, industry research, trend forecasting, and demand analysis.
-
-Contributions welcome! Please read the [contribution guidelines](#contributing) first.
+Understanding the size, direction and participants of a market before deciding where to compete.
 
 ---
 
@@ -16,7 +14,6 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Company & Funding Data](#company--funding-data)
 - [AI-Powered Market Intelligence](#ai-powered-market-intelligence)
 - [Free Tools](#free-tools)
-- [Templates](#templates)
 - [Books](#books)
 - [Articles](#articles)
 - [Communities](#communities)
@@ -41,15 +38,13 @@ Tools and data sources for estimating total addressable market and category size
 
 - [CB Insights](https://cbinsights.com) - Market maps, industry analysis, and TAM estimates for tech markets.
 - [Tracxn](https://tracxn.com) - Startup and private market data for sizing emerging categories.
-- [Crunchbase](https://crunchbase.com) - Company, funding, and market data for sizing exercises.
-- [PitchBook](https://pitchbook.com) - Private market data for market sizing and M&A context.
 
 ## Trend Forecasting & Signals
 
 Spot emerging demand and category growth before they peak.
 
 - [Exploding Topics](https://explodingtopics.com) - Emerging trend discovery from search and content signals.
-- [Google Trends](https://trends.google.com) - Free search interest data over time and by region. [Free]
+- [Google Trends](https://trends.google.com) - Free search interest data over time and by region. (free)
 - [Glimpse](https://meetglimpse.com) - Search trend data with historical volume context.
 - [Trend Hunter](https://trendhunter.com) - Consumer and product trend spotting.
 - [Exploding Topics Pro](https://explodingtopics.com/pro) - Category and market-level trend tracking with growth metrics.
@@ -60,7 +55,7 @@ Third-party research on industry structure, forecasts, and competitive dynamics.
 
 - [Gartner](https://gartner.com) - Technology market research, Magic Quadrants, and forecasts.
 - [Forrester](https://forrester.com) - Market and technology research with analyst advisory.
-- [McKinsey Insights](https://mckinsey.com/insights) - Industry and market trend research. [Free]
+- [McKinsey Insights](https://mckinsey.com/insights) - Industry and market trend research. (free)
 - [IDC](https://idc.com) - Technology market intelligence and forecasts.
 
 ## Survey & Consumer Insight Tools
@@ -88,41 +83,27 @@ Platforms using AI to continuously monitor and synthesize market signals.
 
 - [IntelCue](https://intelcue.ai) - AI-powered market and competitive intelligence across newsletters, blogs, news, and more, delivered via MCP to any AI assistant. Cost-effective for lean teams.
 - [AlphaSense](https://alpha-sense.com) - AI-powered market intelligence search across financial and research documents.
-- [Exploding Topics Pro](https://explodingtopics.com/pro) - AI-assisted trend and market signal detection.
 - [Parano.ai](https://parano.ai) - AI-powered tracking of market and competitor moves across pricing, product, and hiring.
 
 ## Free Tools
 
 No-cost options for getting started with market research.
 
-| Tool | Use Case |
-|------|----------|
-| [Google Trends](https://trends.google.com) | Search interest over time and by region |
-| [Google Public Data Explorer](https://www.google.com/publicdata/directory) | Public datasets on economics and demographics |
-| [World Bank Open Data](https://data.worldbank.org) | Global economic and market indicators |
-| [OECD Data](https://data.oecd.org) | Cross-country economic and industry data |
-| [US Census Bureau](https://www.census.gov/data.html) | US demographic and economic data |
-| [Statista (free tier)](https://statista.com) | Limited free access to select statistics |
-
-## Templates
-
-Ready-to-use templates for market sizing and research.
-
-- [TAM/SAM/SOM Template (Google Sheets)](https://sheets.google.com) - Market sizing framework spreadsheet.
-- [Market Research Plan Template (Notion)](https://notion.so) - Structure for planning a research project.
-- [Competitive Landscape Matrix (Google Sheets)](https://sheets.google.com) - Market participant comparison spreadsheet.
-- [Go-to-Market Strategy Template (Notion)](https://www.notion.com/templates) - Framework for market entry planning.
+- [Google Public Data Explorer](https://www.google.com/publicdata/directory) - Public datasets on economics and demographics.
+- [World Bank Open Data](https://data.worldbank.org) - Global economic and market indicators.
+- [OECD Data](https://data.oecd.org) - Cross-country economic and industry data.
+- [US Census Bureau](https://www.census.gov/data.html) - US demographic and economic data.
 
 ## Books
 
 Essential reading on market research and analysis.
 
-- **"Crossing the Chasm"** by Geoffrey Moore - Market adoption dynamics for new categories.
-- **"Blue Ocean Strategy"** by W. Chan Kim & Renée Mauborgne - Finding uncontested market space.
-- **"The Innovator's Dilemma"** by Clayton Christensen - Market disruption theory.
-- **"Marketing Research"** by Naresh Malhotra - Foundational market research methodology text.
-- **"Obviously Awesome"** by April Dunford - Positioning within a market category.
-- **"The Lean Startup"** by Eric Ries - Validated learning and market discovery.
+- [Crossing the Chasm](https://openlibrary.org/search?q=Crossing+the+Chasm) - By Geoffrey Moore. Market adoption dynamics for new categories.
+- [Blue Ocean Strategy](https://openlibrary.org/search?q=Blue+Ocean+Strategy) - By W. Chan Kim & Renée Mauborgne. Finding uncontested market space.
+- [The Innovator's Dilemma](https://openlibrary.org/search?q=The+Innovator's+Dilemma) - By Clayton Christensen. Market disruption theory.
+- [Marketing Research](https://openlibrary.org/search?q=Marketing+Research) - By Naresh Malhotra. Foundational market research methodology text.
+- [Obviously Awesome](https://openlibrary.org/search?q=Obviously+Awesome) - By April Dunford. Positioning within a market category.
+- [The Lean Startup](https://openlibrary.org/search?q=The+Lean+Startup) - By Eric Ries. Validated learning and market discovery.
 
 ## Articles
 
@@ -154,22 +135,4 @@ Stay updated on market trends and research.
 
 ## Contributing
 
-Contributions are welcome!
-
-Please ensure your suggestion:
-- Is relevant to market intelligence, market research, or trend forecasting
-- Isn't already on the list
-- Has a working link
-
-To contribute:
-1. Fork this repo
-2. Add your suggestion
-3. Submit a pull request
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyright and related rights to this work.
+Contributions are welcome. Please read the [contribution guidelines](contributing.md) first.
