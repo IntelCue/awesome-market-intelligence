@@ -44,7 +44,7 @@ Tools and data sources for estimating total addressable market and category size
 Spot emerging demand and category growth before they peak.
 
 - [Exploding Topics](https://explodingtopics.com) - Emerging trend discovery from search and content signals.
-- [Google Trends](https://trends.google.com) - Free search interest data over time and by region (free).
+- [Google Trends](https://trends.google.com) - Free search interest data over time and by region.
 - [Glimpse](https://meetglimpse.com) - Search trend data with historical volume context.
 - [Trend Hunter](https://trendhunter.com) - Consumer and product trend spotting.
 - [Exploding Topics Pro](https://explodingtopics.com/pro) - Category and market-level trend tracking with growth metrics.
