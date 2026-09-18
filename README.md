@@ -18,7 +18,6 @@ Understanding the size, direction and participants of a market before deciding w
 - [Articles](#articles)
 - [Communities](#communities)
 - [Newsletters](#newsletters)
-- [Related Lists](#related-lists)
 
 ---
 
