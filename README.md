@@ -80,7 +80,7 @@ Understand market participants, funding flows, and competitive entrants.
 - [PitchBook](https://pitchbook.com) - Private market and M&A intelligence.
 - [Owler](https://owler.com) - Company profiles and market comparisons.
 - [Dealroom](https://dealroom.co) - Startup and market ecosystem data, strong in Europe.
-- [Funding Signals](https://fundingsignals.net/?utm_source=github_awesomelist&utm_medium=backlink) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D filings), scored for sales relevance.
+- [Funding Signals](https://fundingsignals.net/) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D filings), scored for sales relevance.
 
 ## AI-Powered Market Intelligence
 
