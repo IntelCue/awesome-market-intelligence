@@ -18,6 +18,7 @@ Understanding the size, direction and participants of a market before deciding w
 - [Articles](#articles)
 - [Communities](#communities)
 - [Newsletters](#newsletters)
+- [Related Lists](#related-lists)
 
 ---
 
@@ -132,6 +133,12 @@ Stay updated on market trends and research.
 - [The Hustle](https://thehustle.co) - Business and market trend news.
 
 ---
+
+## Related Lists
+
+- [Competitive Intelligence](https://github.com/IntelCue/awesome-competitive-intelligence#readme) - Gathering and analyzing information about competitors and markets.
+- [Personal Branding](https://github.com/IntelCue/awesome-personal-branding#readme) - Building a professional reputation by publishing consistently.
+- [Content Marketing](https://github.com/IntelCue/awesome-content-marketing#readme) - Planning, creating and distributing content that earns an audience.
 
 ## Contributing
 
