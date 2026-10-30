@@ -76,6 +76,7 @@ Understand market participants, funding flows, and competitive entrants.
 - [Owler](https://owler.com) - Company profiles and market comparisons.
 - [Dealroom](https://dealroom.co) - Startup and market ecosystem data, strong in Europe.
 - [Funding Signals](https://fundingsignals.net/) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D filings), scored for sales relevance.
+- [VentureDex](https://venturedex.co) - Selective startup research index: source-linked profiles with product evidence, funding signals, and investor context.
 
 ## AI-Powered Market Intelligence
 
