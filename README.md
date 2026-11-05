@@ -84,6 +84,7 @@ Platforms using AI to continuously monitor and synthesize market signals.
 - [IntelCue](https://intelcue.ai) - AI-powered market and competitive intelligence across newsletters, blogs, news, and more, delivered via MCP to any AI assistant. Cost-effective for lean teams.
 - [AlphaSense](https://alpha-sense.com) - AI-powered market intelligence search across financial and research documents.
 - [Parano.ai](https://parano.ai) - AI-powered tracking of market and competitor moves across pricing, product, and hiring.
+- [OpenSparta](https://opensparta.com) - Lead Radar monitors selected Telegram communities for buying requests and ranks matches with original-message evidence.
 
 ## Free Tools
 
