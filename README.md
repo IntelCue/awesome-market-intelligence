@@ -76,6 +76,12 @@ Understand market participants, funding flows, and competitive entrants.
 - [Owler](https://owler.com) - Company profiles and market comparisons.
 - [Dealroom](https://dealroom.co) - Startup and market ecosystem data, strong in Europe.
 - [Funding Signals](https://fundingsignals.net/) - B2B lead-intelligence API that flags companies right after they raise funding (SEC Form D filings), scored for sales relevance.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## AI-Powered Market Intelligence
 
